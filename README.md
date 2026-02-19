@@ -9,4 +9,11 @@
 ### 👩‍💻 작성자
 * **이름**: Hye-won
 * **상태**: AI 서비스 기획 부트캠프 열공 중 🔥
-![이미지 설명](https://github.com/user-attachments/assets/cd3a017c-db0c-4028-9bd7-649a93d169bc)
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cd3a017c-db0c-4028-9bd7-649a93d169bc" width="80%">
+</p>
+
+<br/>
